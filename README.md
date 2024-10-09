@@ -11,6 +11,5 @@ An interactive Python-based chatbot for financial analysis, leveraging OpenAI's 
 - **Interactive Chat Interface:** Engage in a conversational interface to ask financial queries seamlessly.
 - **Function Integration:** Utilizes OpenAI's function calling to fetch and display precise financial data.
 
-## 📸 Demo
-(screenshots/screenshot_01.png)
 
+Happy Investing! 📈
